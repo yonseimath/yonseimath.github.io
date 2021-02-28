@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# 연세대학교 원주캠퍼스 데이터과학 학습모임
+# 연세대학교 미래캠퍼스 데이터과학 학습모임
 
 현재 2021년도 스터디 모임이 진행중입니다. 자세한 내용은 [data-science-2021](data-science-2021)을 참조해 주세요.
 
